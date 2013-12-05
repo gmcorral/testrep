@@ -1,3 +1,4 @@
+Change on first line
 This is another test
 Changes on master
 Also edited from origin
