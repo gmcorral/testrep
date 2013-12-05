@@ -2,3 +2,4 @@ This is another test
 Changes on master
 Also edited from origin
 More edits
+Changes on last line
