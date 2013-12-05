@@ -9,3 +9,4 @@ Changes on master
 Changes on branch1
 changes
 more changes on branch11
+Conflict!
