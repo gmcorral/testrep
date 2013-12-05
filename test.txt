@@ -10,3 +10,4 @@ Changes on branch1
 changes
 more changes on branch11
 Conflict!
+This will be stashed
